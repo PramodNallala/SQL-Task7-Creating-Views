@@ -40,25 +40,6 @@ To learn how to create and use SQL views effectively for data abstraction and se
     - `Employee_Department_Details` – Joined view combining employee and department info.
 
 ---
-
-## 💡 Sample Interview Questions Covered
-
-- What is a view?
-- Can we update through a view?
-- What is a materialized view?
-- Difference between view and table?
-- How to drop a view?
-- Why and when should views be used?
-- Security and performance considerations using views
-- What does `WITH CHECK OPTION` do?
-
----
-
-## 📎 Submission
-Paste this GitHub repo link in the [submission form](#) provided by Elevate Labs.
-
----
-
 ## 👨‍🎓 Author
 **Pramod Nallala**  
 SQL Developer Intern  
